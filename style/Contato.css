@@ -221,7 +221,7 @@ button:hover {
 }
 
 input:focus, textarea:focus {
-    border-color: palevioletred; 
+    border-color: pink; 
 }
 
 input:invalid, textarea:invalid {
